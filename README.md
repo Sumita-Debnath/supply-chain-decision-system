@@ -148,7 +148,8 @@ An interactive dashboard allows users to:
 - Test different inventory levels  
 - Visualize cost vs service trade-offs  
 - Identify optimal decisions instantly  
-
+## 🌐 Live Dashboard
+https://supply-chain-decision-system-gkycimxgmtarfrxvbj7olg.streamlit.app/
 ---
 
 ## 🚀 How to Run
